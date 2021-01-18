@@ -5,7 +5,7 @@
 
 # Why use ScribeJava?
 
-### Dead Simple
+### Simplicity at its Peak: How to implement code
 
 Who said OAuth/OAuth2 was difficult? Configuring ScribeJava is __so easy your grandma can do it__! check it out:
 
@@ -20,7 +20,7 @@ That **single line** (added newlines for readability) is the only thing you need
 Working executable examples are [here](https://github.com/scribejava/scribejava/tree/master/scribejava-apis/src/test/java/com/github/scribejava/apis/examples)
 Common usage: [example](https://github.com/scribejava/scribejava/blob/master/scribejava-apis/src/test/java/com/github/scribejava/apis/examples/Google20Example.java)
 
-### Threadsafe
+### Threadsafe Multitasking
 
 Hit ScribeJava as hard and with many threads as you like.
 
@@ -170,7 +170,7 @@ Some useful info and answers you can find on the [wiki](https://github.com/scrib
 
 Also, remember to read the [fantastic tutorial](http://akoskm.github.io/2015/07/31/twitter-sign-in-for-web-apps.html) that [@akoskm](https://twitter.com/akoskm) wrote to easily integrate a server side app with an API (twitter in this case).
 
-## Questions?
+## Any Questions?
 
 Feel free to drop us an email or create issue right here on github.com
 
